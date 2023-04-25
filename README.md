@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning new technology
+- ⚡ I'm python developer
+- ⚡ also I'm backend developer with django framework
 <!--
 **rbabaeii/rbabaeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
